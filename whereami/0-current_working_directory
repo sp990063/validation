@@ -1,1 +1,1 @@
-printf $PWD\n
+PWD
