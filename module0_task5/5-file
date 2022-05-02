@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "Hello DevOps\n" >> "\*\\'\"DevOps\"\'\\*$\?\*\*\*\*\*:)"
+echo -e "Hello DevOps\n\r" >> "\*\\'\"DevOps\"\'\\*$\?\*\*\*\*\*:)"
